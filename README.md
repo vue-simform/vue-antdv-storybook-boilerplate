@@ -47,7 +47,7 @@ run `npm run dev` command to start development server.
 - `npm run preview` to run build preview
 - `npm run lint` to check linting issues
 - `npm run lint:fix` to fix linting issues
-- `npm run storybook` to run storybook
+- `npm run storybook` to run storybook (To run storybook you need a node verion 16 or higher)
 
 ## Type Support for `.vue` Imports in TS
 
